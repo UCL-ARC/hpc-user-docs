@@ -45,6 +45,7 @@ theme:
   features:
     - instant
     - navigation.tabs
+    - navigation.tabs.sticky
   icon:
     repo: fontawesome/brands/github
 #Boo GDPR
